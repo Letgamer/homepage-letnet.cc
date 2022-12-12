@@ -1,7 +1,7 @@
 export const SITE = {
   name: "Qwind",
 
-  origin: "https://qwind.pages.dev",
+  origin: "https://letnet.cc",
   basePathname: "/",
   trailingSlash: true
 };
