@@ -131,6 +131,7 @@ export default component$(() => {
           </div>
         </div>
       </div>
+      <script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "4f487d6b2a5742e2a737673ffae56f75"}'></script>
     </footer>
   );
 });
