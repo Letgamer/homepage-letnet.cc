@@ -41,7 +41,7 @@
     "vite": "4.0.0",
     "vite-imagetools": "^4.0.11",
     "wrangler": "latest",
-    "vite-tsconfig-paths": "4.0.2"
+    "vite-tsconfig-paths": "4.0.3"
   },
   "engines": {
     "node": ">=15.0.0"
