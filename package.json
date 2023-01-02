@@ -24,7 +24,7 @@
     "@builder.io/qwik": "0.15.2",
     "@builder.io/qwik-city": "0.0.128",
     "@fontsource/inter": "^4.5.14",
-    "@iconify-json/tabler": "^1.1.49",
+    "@iconify-json/tabler": "^1.1.54",
     "@types/eslint": "8.4.10",
     "@types/node": "latest",
     "@typescript-eslint/eslint-plugin": "5.46.0",
